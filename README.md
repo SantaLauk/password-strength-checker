@@ -1,4 +1,4 @@
-# password-strength-checker
+# Password-Checker
 
 A Python-based password validation tool that evaluates password strength using composition rules and real-world breach data.
 
